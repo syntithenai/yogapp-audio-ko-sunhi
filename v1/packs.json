@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ko-sunhi.zip", "bytes": 65241872, "sha256": "e56bf2876054bd7fcf621fa350a538f2abafdf54bafc1bc32e52bb9f4ca0fa88"}
+  ]
+}

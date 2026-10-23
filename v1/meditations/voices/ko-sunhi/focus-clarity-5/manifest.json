@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 161,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세로 앉으세요. 더 편하다면 누워서도 좋습니다.",
+      "file": "c001.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 2,
+      "text": "손을 휴식시키세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마시세요.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 긴 숨을 내쉬세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 6,
+      "text": "한 가지 집중 포인트를 선택하세요. 코 안의 숨, 또는 복부의 올라가는 움직임.",
+      "file": "c006.ogg",
+      "durationSec": 13.536
+    },
+    {
+      "index": 7,
+      "text": "그곳에 주의를 두세요.",
+      "file": "c007.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 8,
+      "text": "[пауза:23]",
+      "file": "c008.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 9,
+      "text": "마음이 떠돌면, 그가 어디로 갔는지 알아차리세요.",
+      "file": "c009.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 10,
+      "text": "그러면 부드럽고 깨끗하게 돌아오세요.",
+      "file": "c010.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 11,
+      "text": "[пауза:29]",
+      "file": "c011.ogg",
+      "durationSec": 2.256
+    },
+    {
+      "index": 12,
+      "text": "돌아오는 것이 바로 훈련입니다.",
+      "file": "c012.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 13,
+      "text": "숨을 들이마시고, 그대로 머무르세요.",
+      "file": "c013.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 14,
+      "text": "숨을 내쉬고, 그대로 머무르세요.",
+      "file": "c014.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 15,
+      "text": "[пауза:34]",
+      "file": "c015.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 16,
+      "text": "도움이 된다면, 숨을 5회까지 센 후 다시 시작하세요.",
+      "file": "c016.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 17,
+      "text": "하나.",
+      "file": "c017.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 18,
+      "text": "[пауза:17]",
+      "file": "c018.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 19,
+      "text": "둘.",
+      "file": "c019.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 20,
+      "text": "[пауза:17]",
+      "file": "c020.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 21,
+      "text": "셋.",
+      "file": "c021.ogg",
+      "durationSec": 2.256
+    },
+    {
+      "index": 22,
+      "text": "[пауза:17]",
+      "file": "c022.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 23,
+      "text": "넷.",
+      "file": "c023.ogg",
+      "durationSec": 2.232
+    },
+    {
+      "index": 24,
+      "text": "[пауза:17]",
+      "file": "c024.ogg",
+      "durationSec": 2.544
+    },
+    {
+      "index": 25,
+      "text": "다섯.",
+      "file": "c025.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 26,
+      "text": "[일시정지:23]",
+      "file": "c026.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 27,
+      "text": "카운트를 놓아주세요.",
+      "file": "c027.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 28,
+      "text": "잠시 동안 맑고 열린 주의를 유지하세요.",
+      "file": "c028.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 29,
+      "text": "[일시정지:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 30,
+      "text": "한 번 더 편안한 숨을 들이마셔보세요.",
+      "file": "c030.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 31,
+      "text": "손가락을 움직여보세요.",
+      "file": "c031.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 32,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c032.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 33,
+      "text": "이 느낌을 조금 가져가세요.",
+      "file": "c033.ogg",
+      "durationSec": 4.872
+    }
+  ]
+}

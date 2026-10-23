@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 169,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세를 찾거나, 더 편하다면 누워주세요.",
+      "file": "c001.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 2,
+      "text": "손을 편안히 놓아주세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나, 감아주세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마시세요.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 길게 숨을 내쉬세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 6,
+      "text": "엉덩이 뼈 또는 발을 느껴보세요.",
+      "file": "c006.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 7,
+      "text": "당신 아래에 안정된 기반이 있습니다.",
+      "file": "c007.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 8,
+      "text": "[일시정지:22]",
+      "file": "c008.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 9,
+      "text": "척추를 길게 펴되, 굳어지지 않게 하세요.",
+      "file": "c009.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 10,
+      "text": "부드러운 얼굴. 부드러운 배. 강한 중심.",
+      "file": "c010.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 11,
+      "text": "[일시정지:22]",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "조용히 이 문구들을 시도해보거나, 그냥 들어보세요.",
+      "file": "c012.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 13,
+      "text": "내가 마주해야 할 것을 마주할 수 있다.",
+      "file": "c013.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "나는 나의 성장을 서두를 필요가 없다.",
+      "file": "c015.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 17,
+      "text": "나는 다음 솔직한 한 걸음에 신뢰한다.",
+      "file": "c017.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 19,
+      "text": "가슴에 따뜻함으로 자신감을 숨 쉬어라, 갑옷으로는 하지 말라.",
+      "file": "c019.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 21,
+      "text": "자신이 안정적으로 일상적인 도전 하나를 처리하는 모습을 봐라.",
+      "file": "c021.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 23,
+      "text": "호흡으로 돌아가라.",
+      "file": "c023.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 24,
+      "text": "안정적이다. 충분하다.",
+      "file": "c024.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 25,
+      "text": "[일시정지:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 26,
+      "text": "한 번 더 편안한 숨을 쉬어라.",
+      "file": "c026.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 27,
+      "text": "손가락을 움직여라.",
+      "file": "c027.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 28,
+      "text": "준비가 되면 눈을 떠라.",
+      "file": "c028.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 29,
+      "text": "이것을 조금만 가지고 나가라.",
+      "file": "c029.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 457,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "깊은 휴식의 연습에 오신 것을 환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 1,
+      "text": "가능하다면 등을 대고 누워 주세요.",
+      "file": "c001.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 2,
+      "text": "도움이 된다면 머리와 무릎을 지지해 주세요.",
+      "file": "c002.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 3,
+      "text": "팔을 옆에 놓고 손바닥을 부드럽게 유지하세요.",
+      "file": "c003.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 4,
+      "text": "눈을 감으세요.",
+      "file": "c004.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 5,
+      "text": "다른 곳에 있을 필요는 없습니다.",
+      "file": "c005.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 6,
+      "text": "[일시정지:23]",
+      "file": "c006.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 7,
+      "text": "바닥이나 침대와 닿는 지점을 느껴보세요.",
+      "file": "c007.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 8,
+      "text": "발 뒤꿈치. 엉덩이. 어깨 뼈. 머리.",
+      "file": "c008.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 9,
+      "text": "몸이 지지되도록 허용하세요.",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "[일시정지:23]",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "자연스러운 호흡을 느껴보세요.",
+      "file": "c011.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 12,
+      "text": "바꾸려 하지 않아도 됩니다.",
+      "file": "c012.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 13,
+      "text": "들어오는 숨을 느껴보세요.",
+      "file": "c013.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 14,
+      "text": "나가는 숨을 느껴보세요.",
+      "file": "c014.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:25]",
+      "file": "c015.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 16,
+      "text": "마음이 바쁘다면 괜찮습니다.",
+      "file": "c016.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 17,
+      "text": "어쨌든 휴식할 수 있습니다.",
+      "file": "c017.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 18,
+      "text": "감각으로 계속 돌아가기만 하면 됩니다.",
+      "file": "c018.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 19,
+      "text": "[пауза:23]",
+      "file": "c019.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 20,
+      "text": "오른쪽 발에 의식을 집중하세요.",
+      "file": "c020.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 21,
+      "text": "발가락. 발바닥. 발목.",
+      "file": "c021.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 22,
+      "text": "[пауза:21]",
+      "file": "c022.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 23,
+      "text": "오른쪽 하부 다리.",
+      "file": "c023.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 24,
+      "text": "무릎.",
+      "file": "c024.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 25,
+      "text": "허벅지.",
+      "file": "c025.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 26,
+      "text": "[пауза:21]",
+      "file": "c026.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 27,
+      "text": "오른쪽 엉덩이.",
+      "file": "c027.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 28,
+      "text": "전체 오른쪽 다리, 무겁고 조용하게.",
+      "file": "c028.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 29,
+      "text": "[пауза:23]",
+      "file": "c029.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 30,
+      "text": "왼쪽 발.",
+      "file": "c030.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 31,
+      "text": "발가락. 발바닥. 발목.",
+      "file": "c031.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 32,
+      "text": "[пауза:21]",
+      "file": "c032.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 33,
+      "text": "왼쪽 하부 다리.",
+      "file": "c033.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 34,
+      "text": "무릎.",
+      "file": "c034.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 35,
+      "text": "허벅지.",
+      "file": "c035.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 36,
+      "text": "[пауза:21]",
+      "file": "c036.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 37,
+      "text": "왼쪽 엉덩이.",
+      "file": "c037.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 38,
+      "text": "전체 왼쪽 다리, 무겁고 조용하게.",
+      "file": "c038.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 39,
+      "text": "[пауза:23]",
+      "file": "c039.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 40,
+      "text": "엉덩이와 하부 복부.",
+      "file": "c040.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 41,
+      "text": "부드럽게.",
+      "file": "c041.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 42,
+      "text": "[пауза:21]",
+      "file": "c042.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 43,
+      "text": "가슴이 올라가고 내려갑니다.",
+      "file": "c043.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 44,
+      "text": "심장 공간을 여유롭게 열어두세요.",
+      "file": "c044.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 45,
+      "text": "[пауза:23]",
+      "file": "c045.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 46,
+      "text": "오른손.",
+      "file": "c046.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 47,
+      "text": "가지. 掌. 손목.",
+      "file": "c047.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 48,
+      "text": "[пауза:14]",
+      "file": "c048.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 49,
+      "text": "오른팔. 팔꿈치. 어깨.",
+      "file": "c049.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 50,
+      "text": "[пауза:21]",
+      "file": "c050.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 51,
+      "text": "왼손.",
+      "file": "c051.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 52,
+      "text": "가지. 掌. 손목.",
+      "file": "c052.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 53,
+      "text": "[пауза:14]",
+      "file": "c053.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 54,
+      "text": "왼팔. 팔꿈치. 어깨.",
+      "file": "c054.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 55,
+      "text": "[пауза:23]",
+      "file": "c055.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 56,
+      "text": "목구멍이 부드럽게.",
+      "file": "c056.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 57,
+      "text": "입가를 풀어두세요.",
+      "file": "c057.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 58,
+      "text": "혀는 자연스럽게 쉬고 있습니다.",
+      "file": "c058.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 59,
+      "text": "[пауза:21]",
+      "file": "c059.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 60,
+      "text": "눈은 빈틈없이 눈두덩이에 휴식을 취하고 있습니다.",
+      "file": "c060.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 61,
+      "text": "앞머리가 부드럽게.",
+      "file": "c061.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 62,
+      "text": "머리카락과 머리 위의 정점.",
+      "file": "c062.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 63,
+      "text": "[пауза:23]",
+      "file": "c063.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 64,
+      "text": "전신을 하나의 평온한 공간으로 느껴보세요.",
+      "file": "c064.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 65,
+      "text": "호흡이 조용히 밀물처럼 흐르고 있습니다.",
+      "file": "c065.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 66,
+      "text": "[пауза:62]",
+      "file": "c066.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 67,
+      "text": "전신과 함께 머무세요.",
+      "file": "c067.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 68,
+      "text": "[пауза:105]",
+      "file": "c068.ogg",
+      "durationSec": 2.136
+    },
+    {
+      "index": 69,
+      "text": "부드럽고, 넓고, 고요한.",
+      "file": "c069.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 70,
+      "text": "[일시정지:55]",
+      "file": "c070.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 71,
+      "text": "생각이 떠오르면, 구름처럼 지나가게 두세요.",
+      "file": "c071.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 72,
+      "text": "[일시정지:50]",
+      "file": "c072.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 73,
+      "text": "안겨 있는 느낌으로 돌아가세요.",
+      "file": "c073.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 74,
+      "text": "[일시정지:55]",
+      "file": "c074.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 75,
+      "text": "여기서 쉬세요.",
+      "file": "c075.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 76,
+      "text": "해결할 것이 없습니다.",
+      "file": "c076.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 77,
+      "text": "완성할 것이 없습니다.",
+      "file": "c077.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 78,
+      "text": "[일시정지:110]",
+      "file": "c078.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 79,
+      "text": "잠시 떠나더라도 괜찮습니다.",
+      "file": "c079.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 80,
+      "text": "경각심을 유지하더라도 괜찮습니다.",
+      "file": "c080.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 81,
+      "text": "둘 다 휴식입니다.",
+      "file": "c081.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 82,
+      "text": "[일시정지:130]",
+      "file": "c082.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 83,
+      "text": "휴식.",
+      "file": "c083.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 84,
+      "text": "[일시정지:115]",
+      "file": "c084.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 85,
+      "text": "다시 숨을 느끼기 시작하세요.",
+      "file": "c085.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 86,
+      "text": "조금 더 선명해졌습니다.",
+      "file": "c086.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 87,
+      "text": "[일시정지:23]",
+      "file": "c087.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 88,
+      "text": "주변의 방을 느껴보세요.",
+      "file": "c088.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 89,
+      "text": "가까이와 멀리 있는 소리를 느껴보세요.",
+      "file": "c089.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 90,
+      "text": "[일시정지:21]",
+      "file": "c090.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 91,
+      "text": "손가락을 움직여보세요.",
+      "file": "c091.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 92,
+      "text": "발가락을 움직여보세요.",
+      "file": "c092.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 93,
+      "text": "원한다면 손목과 발목을 돌려보세요.",
+      "file": "c093.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 94,
+      "text": "[일시정지:21]",
+      "file": "c094.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 95,
+      "text": "더 깊은 숨을 들이마시세요.",
+      "file": "c095.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 96,
+      "text": "그리고 긴 한숨을 내쉽니다.",
+      "file": "c096.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 97,
+      "text": "준비가 되면 눈을 뜨세요.",
+      "file": "c097.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 98,
+      "text": "천천히 돌아오세요.",
+      "file": "c098.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 99,
+      "text": "이 조용함을 조금만 가지고 나가세요.",
+      "file": "c099.ogg",
+      "durationSec": 5.832
+    }
+  ]
+}

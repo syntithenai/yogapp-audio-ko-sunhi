@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 167,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영한다.",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세를 취하거나, 더 편하다면 누워도 좋다.",
+      "file": "c001.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 2,
+      "text": "손을 편안히 놓아라.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나, 감아라.",
+      "file": "c003.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마신다.",
+      "file": "c004.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 길게 숨을 내쉰다.",
+      "file": "c005.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 6,
+      "text": "원한다면 한 손을 하복부에 얹어라.",
+      "file": "c006.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 7,
+      "text": "복부가 긴장을 하고 있는지 확인하라.",
+      "file": "c007.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 8,
+      "text": "[일시정지:20]",
+      "file": "c008.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 9,
+      "text": "다음 들이마실 때, 배가 부풀어 오르도록 허용하세요.",
+      "file": "c009.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 10,
+      "text": "내쉬는 숨에, 압박하지 않고 배가 내려가도록 놓아주세요.",
+      "file": "c010.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 11,
+      "text": "[일시정지:20]",
+      "file": "c011.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 12,
+      "text": "다시 한번. 부드러운 배로 들이마십니다.",
+      "file": "c012.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 13,
+      "text": "부드러운 배로 내쉽니다.",
+      "file": "c013.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:25]",
+      "file": "c014.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 15,
+      "text": "마음이 반박하더라도, 몸이 앞서가게 하세요.",
+      "file": "c015.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 16,
+      "text": "팽창. 방출.",
+      "file": "c016.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 17,
+      "text": "[일시정지:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 18,
+      "text": "어깨를 내립니다.",
+      "file": "c018.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 19,
+      "text": "턱을 풉니다.",
+      "file": "c019.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 20,
+      "text": "배를 자유롭게 합니다.",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:25]",
+      "file": "c021.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 22,
+      "text": "조용하고 부드러운 배호흡을 10번 유지하세요.",
+      "file": "c022.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 23,
+      "text": "[일시정지:45]",
+      "file": "c023.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 24,
+      "text": "도착한 어떤 안정감도 느껴보세요.",
+      "file": "c024.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 25,
+      "text": "[일시정지:20]",
+      "file": "c025.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 26,
+      "text": "여기서 쉬세요.",
+      "file": "c026.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 28,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c028.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 29,
+      "text": "손가락을 움직여보세요.",
+      "file": "c029.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 30,
+      "text": "준비가 되면, 눈을 떠주세요.",
+      "file": "c030.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 31,
+      "text": "이 느낌을 조금만 가지고 나가세요.",
+      "file": "c031.ogg",
+      "durationSec": 5.544
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 127,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "분노나 짜증이 있다면, 여기에 오신 것을 환영합니다.",
+      "file": "c001.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 2,
+      "text": "그것을 사라지게 할 필요는 없습니다.",
+      "file": "c002.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 3,
+      "text": "그저 더 많은 공간을 주세요.",
+      "file": "c003.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 4,
+      "text": "발을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 5,
+      "text": "[일시정지:25]",
+      "file": "c005.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 6,
+      "text": "4초 동안 들이마십니다.",
+      "file": "c006.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 7,
+      "text": "6초 또는 8초 동안 내쉽니다.",
+      "file": "c007.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 8,
+      "text": "더 긴 숨을 내쉬는 것이 신체를 차게 합니다.",
+      "file": "c008.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:33]",
+      "file": "c009.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 10,
+      "text": "다시 한 번.",
+      "file": "c010.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 11,
+      "text": "[일시정지:33]",
+      "file": "c011.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 12,
+      "text": "열을 이름 붙이되, 이야기를 부채질하지 마세요.",
+      "file": "c012.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 13,
+      "text": "가슴의 열. 뻣뻣한 턱. 빠른 마음.",
+      "file": "c013.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:41]",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "손을 부드럽게 풀어주세요.",
+      "file": "c015.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 16,
+      "text": "어깨를 내려주세요.",
+      "file": "c016.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 17,
+      "text": "[일시정지:33]",
+      "file": "c017.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 18,
+      "text": "나중에 더 명확한 곳에서 반응할 수 있습니다.",
+      "file": "c018.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 19,
+      "text": "지금은 숨을 쉬세요.",
+      "file": "c019.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c021.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 22,
+      "text": "손가락을 움직여보세요.",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c023.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 24,
+      "text": "이것을 조금이라도 가지고 다니세요.",
+      "file": "c024.ogg",
+      "durationSec": 5.712
+    }
+  ]
+}

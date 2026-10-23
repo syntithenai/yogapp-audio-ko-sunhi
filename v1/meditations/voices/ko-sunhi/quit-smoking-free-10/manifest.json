@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 345,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "이 연습은 금연자로서의 당신을 위한 것입니다.",
+      "file": "c001.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 2,
+      "text": "편안한 자세를 취하거나, 더 편하다면 누워주세요.",
+      "file": "c002.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 3,
+      "text": "손을 편안하게 놓으세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 4,
+      "text": "눈을 부드럽게 띄우거나, 감으세요.",
+      "file": "c004.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "그리고 더 길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:16]",
+      "file": "c007.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 8,
+      "text": "몸이 지지받는 느낌을 느껴보세요.",
+      "file": "c008.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 9,
+      "text": "증명할 것도, 서두를 곳도 없습니다.",
+      "file": "c009.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 10,
+      "text": "[일시정지:16]",
+      "file": "c010.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 11,
+      "text": "우리는 자유에 대한 명확한 진술을 다루겠습니다.",
+      "file": "c011.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 12,
+      "text": "들어보거나, 진실로 다가오는 말을 조용히 되뇌세요.",
+      "file": "c012.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 13,
+      "text": "[일시정지:18]",
+      "file": "c013.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 14,
+      "text": "나는 지금 금연자이다.",
+      "file": "c014.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:16]",
+      "file": "c015.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 16,
+      "text": "나는 니코틴 중독에서 벗어나서 너무나 행복하다.",
+      "file": "c016.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 17,
+      "text": "[일시정지:18]",
+      "file": "c017.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 18,
+      "text": "흡연은 더 이상 내 삶이나 정체성의 일부가 아니다.",
+      "file": "c018.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 19,
+      "text": "[일시정지:18]",
+      "file": "c019.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 20,
+      "text": "나는 과거의 기억이나 다른 흡연자들을 보면서 이런 유발 요인을 느끼고 있다.",
+      "file": "c020.ogg",
+      "durationSec": 10.848
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:18]",
+      "file": "c021.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 22,
+      "text": "이러한 유발 요인은 나에게 아무런 영향을 줄 수 없다. 왜냐하면 나는 중독의 노예 상태에서 벗어났기 때문이다.",
+      "file": "c022.ogg",
+      "durationSec": 16.272
+    },
+    {
+      "index": 23,
+      "text": "[일시정지:22]",
+      "file": "c023.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 24,
+      "text": "나는 여전히 흡연의 속임수에 빠져 있는 흡연자들을 위해 안타깝게 생각한다.",
+      "file": "c024.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 25,
+      "text": "니코틴 부족, 욕구, 그리고 다시 채우는 고통스러운 반복 속에 갇힌 사람들.",
+      "file": "c025.ogg",
+      "durationSec": 12.0
+    },
+    {
+      "index": 26,
+      "text": "[일시정지:18]",
+      "file": "c026.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 27,
+      "text": "나는 더 이상 그들과 같이 고통받지 않는다.",
+      "file": "c027.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 28,
+      "text": "[일시정지:14]",
+      "file": "c028.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 29,
+      "text": "이제 나는 진실을 안다.",
+      "file": "c029.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 30,
+      "text": "흡연에는 절대적인 이점이 없다.",
+      "file": "c030.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 31,
+      "text": "[일시정지:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 32,
+      "text": "소변 검사 스틱은 누구에게도 도움이 되지 않았고, 앞으로도 도움이 되지 않을 것이다.",
+      "file": "c032.ogg",
+      "durationSec": 11.568
+    },
+    {
+      "index": 33,
+      "text": "[일시정지:18]",
+      "file": "c033.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 34,
+      "text": "흡연은 나에게 많은 문제를 일으켰다.",
+      "file": "c034.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 35,
+      "text": "[일시정지:14]",
+      "file": "c035.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 36,
+      "text": "나는 그 역겨운 독약을 한 번도 더 피우지 않기로 내 인생 최고의 결정을 내렸다.",
+      "file": "c036.ogg",
+      "durationSec": 11.544
+    },
+    {
+      "index": 37,
+      "text": "그 결정은 최종적이다.",
+      "file": "c037.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 38,
+      "text": "[일시정지:22]",
+      "file": "c038.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 39,
+      "text": "이제 나는 흡연의 법칙을 존중한다.",
+      "file": "c039.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 40,
+      "text": "[일시정지:18]",
+      "file": "c040.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 41,
+      "text": "이제 내 모든 상황이 나아지고 있다.",
+      "file": "c041.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 42,
+      "text": "나는 더 행복하고 건강하며 자신감이 넘치게 되고 있다.",
+      "file": "c042.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 43,
+      "text": "[일시정지:22]",
+      "file": "c043.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 44,
+      "text": "나는 자유롭다.",
+      "file": "c044.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 45,
+      "text": "[일시정지:28]",
+      "file": "c045.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 46,
+      "text": "그 자유 속에서 몇 번의 호흡 동안 쉬어보세요.",
+      "file": "c046.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 47,
+      "text": "트리거는 여전히 오래된 기억으로 찾아올 수 있습니다.",
+      "file": "c047.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 48,
+      "text": "그들은 당신을 다시 노예로 돌려보낼 수 없습니다.",
+      "file": "c048.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 49,
+      "text": "[일시정지:36]",
+      "file": "c049.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 50,
+      "text": "나는 이제 비흡연자입니다.",
+      "file": "c050.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 51,
+      "text": "나는 자유롭다.",
+      "file": "c051.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 52,
+      "text": "[일시정지:28]",
+      "file": "c052.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 53,
+      "text": "한 번 더 편안한 숨을 쉬어보세요.",
+      "file": "c053.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 54,
+      "text": "손가락을 움직여보세요.",
+      "file": "c054.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 55,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c055.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 56,
+      "text": "이 자유를 함께 가지고 나가세요.",
+      "file": "c056.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

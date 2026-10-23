@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 161,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세를 취하거나, 더 편하다면 누워보세요.",
+      "file": "c001.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 2,
+      "text": "손을 편안히 놓으세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나, 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c004.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 길게 숨을 내쉽니다.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "아무리 하루가 계속되더라도, 아침은 여기서 끝내세요.",
+      "file": "c006.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 7,
+      "text": "어깨를 내리세요.",
+      "file": "c007.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 8,
+      "text": "턱을 풀어주세요.",
+      "file": "c008.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:30]",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "코로 숨을 들이마십니다.",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "입으로 숨을 내쉬며, 마치 창문에 안개를 내리는 것처럼.",
+      "file": "c011.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 12,
+      "text": "다시 한 번.",
+      "file": "c012.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 13,
+      "text": "[일시정지:30]",
+      "file": "c013.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 14,
+      "text": "당신이 지니고 있던 것을 내려놓는다고 상상해보세요.",
+      "file": "c014.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 15,
+      "text": "그것은 옆 테이블 위에 놓아두면 됩니다.",
+      "file": "c015.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:37]",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "척추가 곧게 서 있는 것을 느껴보세요.",
+      "file": "c017.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 18,
+      "text": "배가 부드러워지는 것을 느껴보세요.",
+      "file": "c018.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 19,
+      "text": "[일시정지:30]",
+      "file": "c019.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 20,
+      "text": "조용히 묻습니다: 다음 한 시간 동안 무엇이 중요할까요?",
+      "file": "c020.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 21,
+      "text": "하나의 명확한 다음 단계만으로 충분합니다.",
+      "file": "c021.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:44]",
+      "file": "c022.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 23,
+      "text": "그 단순함을 숨으로 들이마셔보세요.",
+      "file": "c023.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 24,
+      "text": "노력을 숨으로 내쉬세요.",
+      "file": "c024.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 25,
+      "text": "[일시정지:37]",
+      "file": "c025.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 26,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c026.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 27,
+      "text": "손가락을 흔들어보세요.",
+      "file": "c027.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 28,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c028.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 29,
+      "text": "이 감각을 조금만 가지고 나가세요.",
+      "file": "c029.ogg",
+      "durationSec": 5.688
+    }
+  ]
+}

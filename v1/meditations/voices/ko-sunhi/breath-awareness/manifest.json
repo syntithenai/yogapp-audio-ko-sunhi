@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 141,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "안정된 자세로 앉으세요.",
+      "file": "c000.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 1,
+      "text": "척추를 곧게 세우되 뻣뻣하지 않게.",
+      "file": "c001.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 2,
+      "text": "이미 존재하는 호흡에 주의를 가져가세요.",
+      "file": "c002.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 3,
+      "text": "아직 바꾸지 마세요. 그냥 지켜보세요.",
+      "file": "c003.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 4,
+      "text": "코끝에서 들이마시는 차가움을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 5,
+      "text": "내쉬는 숨의 따뜻함을 느껴보세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 6,
+      "text": "또는 배의 오르내림을 느껴보세요.",
+      "file": "c006.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 7,
+      "text": "주의를 둘 한 곳을 선택하세요.",
+      "file": "c007.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 8,
+      "text": "마음이 흐트러지면 친절하게 되돌아오세요.",
+      "file": "c008.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 9,
+      "text": "판단하지 말고, 그냥 되돌아오세요.",
+      "file": "c009.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 10,
+      "text": "지금, 쉬워 보이면 부드럽게 사이클을 세세요.",
+      "file": "c010.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 11,
+      "text": "들어마시며. 하나.",
+      "file": "c011.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 12,
+      "text": "내쉬며. 하나.",
+      "file": "c012.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 13,
+      "text": "들어마시며. 둘.",
+      "file": "c013.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 14,
+      "text": "내쉬며. 둘.",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "다섯까지 계속한 후, 다시 하나부터 시작하세요.",
+      "file": "c015.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 16,
+      "text": "카운트를 놓쳤다면, 친절하게 다시 시작하세요.",
+      "file": "c016.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 17,
+      "text": "되돌아오는 것이 바로 연습입니다.",
+      "file": "c017.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 18,
+      "text": "호흡을 자연스럽게 두세요. 무리하지 마세요.",
+      "file": "c018.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 19,
+      "text": "조용히 몇 번 더 사이클을 해보세요.",
+      "file": "c019.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 20,
+      "text": "세는 것을 놓아주세요.",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "잠시 동안 열린 인식 상태에 머무르세요.",
+      "file": "c021.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 22,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c022.ogg",
+      "durationSec": 5.016
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 268,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "이것은 깨끗한 숨을 쉬는 연습입니다.",
+      "file": "c001.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 2,
+      "text": "편안한 자세를 취하세요, 혹은 더 편하다면 누워도 됩니다.",
+      "file": "c002.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 3,
+      "text": "손을 편안히 놓으세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 4,
+      "text": "눈을 부드럽게 하거나 감으세요.",
+      "file": "c004.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 5,
+      "text": "코로 천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "그리고 더 길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:10]",
+      "file": "c007.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 8,
+      "text": "공기를 그대로 알아차리세요.",
+      "file": "c008.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 9,
+      "text": "들이마실 때는 시원합니다.",
+      "file": "c009.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 10,
+      "text": "내쉬는 숨은 따뜻합니다.",
+      "file": "c010.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 11,
+      "text": "연기 없음. 독성 없음. 오직 숨뿐입니다.",
+      "file": "c011.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 13,
+      "text": "무리하지 않고 가슴이 확장되는 것을 느껴보세요.",
+      "file": "c013.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 14,
+      "text": "갈비뼈가 조금 넓어지는 것을 느껴보세요.",
+      "file": "c014.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 16,
+      "text": "한 손을 가슴에 올리거나 두 손을 무릎 위에 올려놓으세요.",
+      "file": "c016.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 17,
+      "text": "치유되고 있는 몸을 느껴보세요.",
+      "file": "c017.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 18,
+      "text": "폐가 맑아지고, 혈액이 더 자유롭게 흐르며, 날마다 후각이 돌아오는 것을 느껴보세요.",
+      "file": "c018.ogg",
+      "durationSec": 12.024
+    },
+    {
+      "index": 19,
+      "text": "[일시정지:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 20,
+      "text": "조용히 이 문구들을 시도해보거나, 그냥 듣기만 하세요.",
+      "file": "c020.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 21,
+      "text": "내 숨은 나의 것입니다.",
+      "file": "c021.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 23,
+      "text": "나는 깨끗한 공기를 선택합니다.",
+      "file": "c023.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 24,
+      "text": "[일시정지:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 25,
+      "text": "나는 그 독물과는 끝났습니다.",
+      "file": "c025.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 26,
+      "text": "[일시정지:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 27,
+      "text": "담배 없이 다음 평범한 순간을 상상해보세요.",
+      "file": "c027.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 28,
+      "text": "커피. 산책. 식사 후 잠시의 휴식.",
+      "file": "c028.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 29,
+      "text": "그 순간을 완성한 자신을 보고, 이미 자유로운 상태임을 느껴보세요.",
+      "file": "c029.ogg",
+      "durationSec": 9.36
+    },
+    {
+      "index": 30,
+      "text": "[일시정지:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 31,
+      "text": "흡연에 대한 기억이 떠오르면, 그건 계획이 아니라 그림으로만 두세요.",
+      "file": "c031.ogg",
+      "durationSec": 9.384
+    },
+    {
+      "index": 32,
+      "text": "이 흡기로 돌아가세요.",
+      "file": "c032.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 33,
+      "text": "이 호기로 돌아가세요.",
+      "file": "c033.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 34,
+      "text": "[일시정지:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 35,
+      "text": "자유를 향해 숨을 쉬세요.",
+      "file": "c035.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 36,
+      "text": "오래된 습관의 이야기를 내쉬세요.",
+      "file": "c036.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 37,
+      "text": "[일시정지:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 38,
+      "text": "중요한 결정을 내렸습니다.",
+      "file": "c038.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 39,
+      "text": "당신의 몸이 그 진실에 따라가고 있습니다.",
+      "file": "c039.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 40,
+      "text": "[일시정지:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 41,
+      "text": "한 번 더 깨끗한 숨을 들이마십니다.",
+      "file": "c041.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 42,
+      "text": "그리고 길고 편안한 숨을 내쉽니다.",
+      "file": "c042.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 43,
+      "text": "손가락을 움직여보세요.",
+      "file": "c043.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 44,
+      "text": "준비가 되셨다면 눈을 떠주세요.",
+      "file": "c044.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 45,
+      "text": "이 깨끗한 공기를 함께 가져가세요.",
+      "file": "c045.ogg",
+      "durationSec": 5.664
+    }
+  ]
+}

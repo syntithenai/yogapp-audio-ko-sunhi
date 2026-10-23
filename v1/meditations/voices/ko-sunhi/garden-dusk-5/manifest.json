@@ -1,0 +1,352 @@
+{
+  "id": "garden-dusk-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 357,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세로 앉거나, 더 편하다면 누워보세요.",
+      "file": "c001.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 2,
+      "text": "손을 편안히 놓으세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 3,
+      "text": "눈을 감거나, 시선을 부드럽게 하세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "몸의 무게가 받쳐지고 있음을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 5,
+      "text": "코로 천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "그리고 더 길고 편안하게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 7,
+      "text": "다시 한 번. 부드럽게 들이마십니다.",
+      "file": "c007.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 8,
+      "text": "부드럽게 내쉽니다.",
+      "file": "c008.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 9,
+      "text": "생각이 흐르더라도 괜찮습니다. 숨으로 돌아가세요.",
+      "file": "c009.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 10,
+      "text": "부드러운 황혼에 조용한 담장 정원을 상상해보세요.",
+      "file": "c010.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 11,
+      "text": "돌길은 하루의 마지막 따뜻함을 간직하고 있습니다.",
+      "file": "c011.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 12,
+      "text": "발바닥을 통해 그 부드러운 열기를 느껴보세요.",
+      "file": "c012.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 13,
+      "text": "라벤더와 저녁 장미가 평온한 향기를 풍깁니다.",
+      "file": "c013.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 14,
+      "text": "차가운 바람이 담장을 넘어와 목을 시원하게 합니다.",
+      "file": "c014.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 15,
+      "text": "따뜻한 오후를 지나 신선한 공기가 흐릅니다.",
+      "file": "c015.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 16,
+      "text": "숨결처럼 부드럽게 다듬어진 울타리 사이를 천천히 걷습니다.",
+      "file": "c016.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 17,
+      "text": "손가락이 여전히 햇빛을 담은 잎을 스치고 지납니다.",
+      "file": "c017.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 18,
+      "text": "따뜻하고, 매끄럽고, 살아있습니다.",
+      "file": "c018.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 19,
+      "text": "조용한 나무 아래 나무 벤치가 기다리고 있습니다.",
+      "file": "c019.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 20,
+      "text": "앉습니다. 나무는 등에 닿는 것이 쾌적하게 따뜻합니다.",
+      "file": "c020.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 21,
+      "text": "위쪽 하늘은 라벤더와 장미색으로 변합니다.",
+      "file": "c021.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 22,
+      "text": "새들이 자리를 잡습니다. 정원은 조용해집니다.",
+      "file": "c022.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 23,
+      "text": "돌과 나무에서 따뜻함이 부드럽게 사라지는 것을 느껴보세요.",
+      "file": "c023.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 24,
+      "text": "얼굴에 저녁의 상쾌한 서늘함을 느껴보세요.",
+      "file": "c024.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 25,
+      "text": "향과 고요를 들이마시세요.",
+      "file": "c025.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 26,
+      "text": "하루 동안 안고 있던 것을 내쉬세요.",
+      "file": "c026.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 27,
+      "text": "나비 한 마리가 마지막 황금빛을 지나갑니다.",
+      "file": "c027.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 28,
+      "text": "여기에는 급한 것이 없습니다. 모든 것이 충분합니다.",
+      "file": "c028.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 29,
+      "text": "그 충분함 속에 머무르세요.",
+      "file": "c029.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 30,
+      "text": "배를 저녁 공기 속으로 부드럽게 풀어내세요.",
+      "file": "c030.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 31,
+      "text": "다음 숨결을 하루 중 가장 조용한 숨결로 삼으세요.",
+      "file": "c031.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 32,
+      "text": "끝내기 전에 길을 천천히 한 바퀴 걸어보세요.",
+      "file": "c032.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 33,
+      "text": "발밑에서 따뜻한 돌이 식어가고 있습니다.",
+      "file": "c033.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 34,
+      "text": "울타리가 하루 동안 쌓아둔 향기를 풀어냅니다.",
+      "file": "c034.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 35,
+      "text": "바람이 이제 저녁의 날카로움을 띠고 있습니다—신선하고 거의 달콤합니다.",
+      "file": "c035.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 36,
+      "text": "문을 여는 대신 문 앞에서 잠시 멈추세요.",
+      "file": "c036.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 37,
+      "text": "어깨에 얼마나 평온함이 내려앉았는지 느껴보세요.",
+      "file": "c037.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 38,
+      "text": "정원의 고요함을 작은 등불처럼 마음 안으로 안고 가세요.",
+      "file": "c038.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 39,
+      "text": "이제 잠시 숨결만으로 쉬어보세요.",
+      "file": "c039.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 40,
+      "text": "천천히 들이마시세요.",
+      "file": "c040.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 41,
+      "text": "천천히 내쉬세요.",
+      "file": "c041.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 42,
+      "text": "들어마시세요.",
+      "file": "c042.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 43,
+      "text": "내쉬세요.",
+      "file": "c043.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 44,
+      "text": "몸이 따뜻한 곳곳을 느껴보세요.",
+      "file": "c044.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 45,
+      "text": "공기가 시원한 곳곳을 느껴보세요.",
+      "file": "c045.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 46,
+      "text": "들어마시세요.",
+      "file": "c046.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 47,
+      "text": "내쉬세요.",
+      "file": "c047.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 48,
+      "text": "갈 곳도 없고, 고칠 것도 없습니다.",
+      "file": "c048.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 49,
+      "text": "들어마시세요.",
+      "file": "c049.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 50,
+      "text": "내쉬세요.",
+      "file": "c050.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 51,
+      "text": "조용한 숨을 몇 번 쉬며 여기서 쉬세요.",
+      "file": "c051.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 52,
+      "text": "언제든지 이곳으로 돌아올 수 있다는 것을 알아두세요.",
+      "file": "c052.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 53,
+      "text": "준비가 되면 숨을 깊게 하세요.",
+      "file": "c053.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 54,
+      "text": "손가락과 발가락을 움직여보세요.",
+      "file": "c054.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 55,
+      "text": "부드럽게 눈을 떠주세요.",
+      "file": "c055.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 56,
+      "text": "이 평화의 일부를 가지고 나가세요.",
+      "file": "c056.ogg",
+      "durationSec": 5.592
+    }
+  ]
+}

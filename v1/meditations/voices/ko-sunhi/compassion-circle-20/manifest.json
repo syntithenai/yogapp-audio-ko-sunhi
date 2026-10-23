@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 320,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "도착할 시간을 가지세요.",
+      "file": "c001.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 2,
+      "text": "지지가 되는 자세로 앉거나 누우세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 3,
+      "text": "안전하다고 느껴진다면 눈을 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "지면과의 접촉을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "더 길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "다시 한 번.",
+      "file": "c008.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 10,
+      "text": "어깨를 내리세요.",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "배를 부드럽게 느껴보세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "우리는 넓어지는 원 안에서 친절을 나누겠습니다.",
+      "file": "c013.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 14,
+      "text": "문구들은 명령이 아니라 초대입니다.",
+      "file": "c014.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "자신을 향해.",
+      "file": "c016.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 17,
+      "text": "내가 안전하기를.",
+      "file": "c017.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 19,
+      "text": "내가 건강하기를.",
+      "file": "c019.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:27]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "내가 편안하게 살기를.",
+      "file": "c021.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:41]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "다시 한 번, 천천히.",
+      "file": "c023.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 24,
+      "text": "내가 안전하기를.",
+      "file": "c024.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 25,
+      "text": "내가 건강하기를.",
+      "file": "c025.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 26,
+      "text": "내가 편안하게 살기를.",
+      "file": "c026.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:69]",
+      "file": "c027.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 28,
+      "text": "친구나 마음을 쓰기 쉬운 사람을 떠올려보세요.",
+      "file": "c028.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 29,
+      "text": "당신이 안전하기를.",
+      "file": "c029.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 30,
+      "text": "[일시정지:27]",
+      "file": "c030.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 31,
+      "text": "당신이 건강하기를.",
+      "file": "c031.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 32,
+      "text": "[일시정지:27]",
+      "file": "c032.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 33,
+      "text": "당신이 편안하게 살기를.",
+      "file": "c033.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 34,
+      "text": "[일시정지:69]",
+      "file": "c034.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 35,
+      "text": "중립적인 사람을 떠올려보세요. 거의 알지 못하는 사람을요.",
+      "file": "c035.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 36,
+      "text": "안전하기를 바랍니다.",
+      "file": "c036.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 37,
+      "text": "건강하기를 바랍니다.",
+      "file": "c037.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 38,
+      "text": "편안하게 살기를 바랍니다.",
+      "file": "c038.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 39,
+      "text": "[일시정지:69]",
+      "file": "c039.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 40,
+      "text": "가능하다면, 조금만 어려운 사람도 포함해 보세요.",
+      "file": "c040.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 41,
+      "text": "오늘은 그것이 더 현명하다면, 다시 자신에게 돌아가세요.",
+      "file": "c041.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 42,
+      "text": "고통에서 자유롭기를 바랍니다.",
+      "file": "c042.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 43,
+      "text": "[일시정지:55]",
+      "file": "c043.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 44,
+      "text": "가까운 이와 먼 이 모두에게 확장하세요.",
+      "file": "c044.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 45,
+      "text": "모든 존재가 안전하기를 바랍니다.",
+      "file": "c045.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 46,
+      "text": "[일시정지:34]",
+      "file": "c046.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 47,
+      "text": "모든 존재가 건강하기를 바랍니다.",
+      "file": "c047.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 48,
+      "text": "[일시정지:34]",
+      "file": "c048.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 49,
+      "text": "모든 존재가 편안하게 살기를 바랍니다.",
+      "file": "c049.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 50,
+      "text": "[일시정지:82]",
+      "file": "c050.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 51,
+      "text": "자신의 몸과 호흡으로 돌아가세요.",
+      "file": "c051.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 52,
+      "text": "문구의 여운 속에 머무르세요.",
+      "file": "c052.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 53,
+      "text": "[일시정지:150]",
+      "file": "c053.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 54,
+      "text": "강요할 필요 없습니다. 부드러움만으로 충분합니다.",
+      "file": "c054.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 55,
+      "text": "[일시정지:137]",
+      "file": "c055.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 56,
+      "text": "[일시정지:41]",
+      "file": "c056.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 57,
+      "text": "호흡을 깊게 시작하세요.",
+      "file": "c057.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 58,
+      "text": "여기서 쉬세요.",
+      "file": "c058.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 59,
+      "text": "[일시정지:26]",
+      "file": "c059.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 60,
+      "text": "다시 방을 느껴보세요.",
+      "file": "c060.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 61,
+      "text": "손가락과 발가락을 움직여보세요.",
+      "file": "c061.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 62,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c062.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 63,
+      "text": "천천히 다음 동작으로 넘어가세요.",
+      "file": "c063.ogg",
+      "durationSec": 5.664
+    }
+  ]
+}

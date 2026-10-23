@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 138,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "앉은 상태로 유지하세요. 이는 업무 중간에 할 수 있는 요법입니다.",
+      "file": "c001.ogg",
+      "durationSec": 10.872
+    },
+    {
+      "index": 2,
+      "text": "잠시 화면에서 시선을 떼세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 3,
+      "text": "가능하다면 멀리 보세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 4,
+      "text": "[일시정지:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 5,
+      "text": "어깨를 위로, 뒤로, 아래로 굴려보세요.",
+      "file": "c005.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 6,
+      "text": "두 번 더 해보세요.",
+      "file": "c006.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "손을 열고 닫아보세요.",
+      "file": "c008.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 9,
+      "text": "가볍게 흔들어보세요.",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "[일시정지:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 11,
+      "text": "이마를 부드럽게 풀어보세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 12,
+      "text": "턱을 풀고, 혀를 편안히 놓으세요.",
+      "file": "c012.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 13,
+      "text": "[일시정지:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 14,
+      "text": "측면 갈비뼈로 숨을 들이마시세요.",
+      "file": "c014.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 15,
+      "text": "내쉬며 가슴을 가라앉히세요.",
+      "file": "c015.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 17,
+      "text": "천천히 눈을 깜빡이세요. 세 번.",
+      "file": "c017.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 19,
+      "text": "한 번 더 깊은 숨을 쉬세요.",
+      "file": "c019.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 20,
+      "text": "준비가 되면 돌아가세요. 조금 덜 긴장된 상태로.",
+      "file": "c020.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 22,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c022.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 23,
+      "text": "손가락을 흔들어보세요.",
+      "file": "c023.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 24,
+      "text": "준비가 되면 눈을 뜨세요.",
+      "file": "c024.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 25,
+      "text": "다음 작업으로 편안함을 가져가세요.",
+      "file": "c025.ogg",
+      "durationSec": 5.712
+    }
+  ]
+}

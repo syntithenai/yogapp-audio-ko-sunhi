@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 209,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "수면을 위한 연습에 오신 것을 환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 1,
+      "text": "누워서 어둠을 친구로 삼으세요.",
+      "file": "c001.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 2,
+      "text": "끝나기 전에 잠들어도 괜찮습니다. 그것이 성공입니다.",
+      "file": "c002.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 3,
+      "text": "[일시정지:22]",
+      "file": "c003.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c004.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 5,
+      "text": "숨을 더 길게 내쉬세요.",
+      "file": "c005.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 6,
+      "text": "[일시정지:22]",
+      "file": "c006.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 7,
+      "text": "이마를 풀어주세요.",
+      "file": "c007.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 8,
+      "text": "[일시정지:18]",
+      "file": "c008.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 9,
+      "text": "눈을 풀어주세요.",
+      "file": "c009.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 10,
+      "text": "[일시정지:18]",
+      "file": "c010.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 11,
+      "text": "턱과 혀를 풀어주세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:22]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "어깨가 녹아내립니다.",
+      "file": "c013.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "팔이 무겁고, 손이 열립니다.",
+      "file": "c015.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 17,
+      "text": "가슴이 부드럽고, 배가 부드럽습니다.",
+      "file": "c017.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:22]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "골반은 무겁습니다.",
+      "file": "c019.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:22]",
+      "file": "c020.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 21,
+      "text": "다리가 무겁고, 발도 무겁습니다.",
+      "file": "c021.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "몸 전체가 침대에 가라앉습니다.",
+      "file": "c023.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 24,
+      "text": "[일시정지:36]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "생각들이 멀리 있는 교통 소리처럼.",
+      "file": "c025.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 26,
+      "text": "당신은 그들을 따라가지 않습니다.",
+      "file": "c026.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:45]",
+      "file": "c027.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 28,
+      "text": "호흡이 더 조용해집니다.",
+      "file": "c028.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 29,
+      "text": "[일시정지:45]",
+      "file": "c029.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 30,
+      "text": "더 어둡고, 더 부드럽고, 더 느리게.",
+      "file": "c030.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 31,
+      "text": "[일시정지:67]",
+      "file": "c031.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 32,
+      "text": "마무리할 것이 없습니다.",
+      "file": "c032.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 33,
+      "text": "[일시정지:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 34,
+      "text": "안전하게 쉴 수 있습니다.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "[일시정지:89]",
+      "file": "c035.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 36,
+      "text": "안전하게 잠들 수 있습니다.",
+      "file": "c036.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 37,
+      "text": "[일시정지:112]",
+      "file": "c037.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 38,
+      "text": "아직 깨어 있다면, 숨을 내쉴 때 계속 휴식하세요.",
+      "file": "c038.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 39,
+      "text": "[일시정지:89]",
+      "file": "c039.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 40,
+      "text": "안녕히 주무세요.",
+      "file": "c040.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 41,
+      "text": "[일시정지:67]",
+      "file": "c041.ogg",
+      "durationSec": 4.608
+    }
+  ]
+}

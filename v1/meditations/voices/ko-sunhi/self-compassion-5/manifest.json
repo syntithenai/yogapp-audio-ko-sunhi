@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 157,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세로 앉으세요, 더 편하게 느껴지면 누워도 됩니다.",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "손을 휴식시키세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이세요.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 긴 숨을 내쉬세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 6,
+      "text": "가슴에 손을 얹거나 두 손을 무릎 위에 올려 놓으세요.",
+      "file": "c006.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 7,
+      "text": "수정하지 않고 그대로 있는 자신을 느껴보세요.",
+      "file": "c007.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 8,
+      "text": "[일시정지:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 9,
+      "text": "고민이 있다면 그것을 인정하세요.",
+      "file": "c009.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 10,
+      "text": "이것은 어려운 순간입니다.",
+      "file": "c010.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 11,
+      "text": "어려움은 인간이 되는 것의 일부입니다.",
+      "file": "c011.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 13,
+      "text": "친구에게 주는 것처럼 자신에게도 친절을 베풀어보세요.",
+      "file": "c013.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 14,
+      "text": "나 자신에게 친절해지기를 바랍니다.",
+      "file": "c014.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 15,
+      "text": "내가 필요로 하는 자비를 나에게 주기를 바랍니다.",
+      "file": "c015.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 17,
+      "text": "다시 한 번 천천히.",
+      "file": "c017.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 18,
+      "text": "나 자신에게 친절해지기를 바랍니다.",
+      "file": "c018.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 19,
+      "text": "내가 필요로 하는 자비를 나에게 주기를 바랍니다.",
+      "file": "c019.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "가슴에 손이 있다면 그 손으로 숨을 들이마시세요.",
+      "file": "c021.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "이 부드러움을 얻기 위해 노력할 필요는 없습니다.",
+      "file": "c023.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 24,
+      "text": "한 번 더 편안하게 숨을 쉬어보세요.",
+      "file": "c024.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 25,
+      "text": "손가락을 움직여보세요.",
+      "file": "c025.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 26,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c026.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 27,
+      "text": "이것을 조금은 마음에 담고 가세요.",
+      "file": "c027.ogg",
+      "durationSec": 5.616
+    }
+  ]
+}

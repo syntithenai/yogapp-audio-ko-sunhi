@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 156,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "이 연습은 하루의 끝을 위한 것입니다.",
+      "file": "c000.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 1,
+      "text": "가능하면 조명을 어둡게 해주세요.",
+      "file": "c001.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 2,
+      "text": "누워 있거나 지지가 되는 자세로 기대주세요.",
+      "file": "c002.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 3,
+      "text": "마음이 여전히 일정을 나열하더라도 하루는 끝났음을 허용하세요.",
+      "file": "c003.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 4,
+      "text": "지금은 그 일을 내려놓을 수 있습니다.",
+      "file": "c004.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 5,
+      "text": "4초 동안 부드럽게 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 6,
+      "text": "6초 동안 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 7,
+      "text": "다시 한 번. 4초 들이마시고 6초 내쉽니다.",
+      "file": "c007.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 8,
+      "text": "긴 숨을 내쉬는 것은 몸이 안전하다고 느끼고 쉴 수 있음을 알려줍니다.",
+      "file": "c008.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 9,
+      "text": "얼굴에 남아 있는 긴장을 스캔하세요.",
+      "file": "c009.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 10,
+      "text": "이마를 부드럽게 하고, 턱을 부드럽게 하세요.",
+      "file": "c010.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 11,
+      "text": "어깨를 귀에서 멀어지게 내려주세요.",
+      "file": "c011.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 12,
+      "text": "바람이 지나간 후 먼지가 가라앉는 것처럼 하루가 가라앉는 것을 상상해보세요.",
+      "file": "c012.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 13,
+      "text": "일어난 일은 일어났습니다.",
+      "file": "c013.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 14,
+      "text": "남아 있는 것은 아침까지 기다릴 수 있습니다.",
+      "file": "c014.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 15,
+      "text": "매트나 바닥이 당신을 받쳐주는 것을 느껴보세요.",
+      "file": "c015.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 16,
+      "text": "호흡을 더 조용히. 몸을 더 무겁게.",
+      "file": "c016.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 17,
+      "text": "잠이 오면, 그대로 두세요.",
+      "file": "c017.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 18,
+      "text": "아니면, 어쨌든 이 부드러움 속에서 쉬세요.",
+      "file": "c018.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 19,
+      "text": "세 번 더 천천히 숨을 쉬세요.",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "들어. 내쉬어.",
+      "file": "c020.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 21,
+      "text": "들어. 내쉬어.",
+      "file": "c021.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 22,
+      "text": "들어. 내쉬어.",
+      "file": "c022.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 23,
+      "text": "하루에 좋은 밤. 밤에 평화를.",
+      "file": "c023.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}

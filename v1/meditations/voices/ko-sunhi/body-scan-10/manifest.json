@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 238,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "도착할 시간을 가지세요.",
+      "file": "c001.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 2,
+      "text": "지지가 되는 자세로 앉거나 누우세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 3,
+      "text": "안전하다고 느껴진다면 눈을 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "지면과의 접촉을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마시세요.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "숨을 더 길게 내쉬세요.",
+      "file": "c006.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:21]",
+      "file": "c007.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 8,
+      "text": "다시 한번.",
+      "file": "c008.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:21]",
+      "file": "c009.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 10,
+      "text": "어깨를 내리세요.",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "배를 부드럽게 느껴보세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:27]",
+      "file": "c012.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 13,
+      "text": "머리 꼭대기부터 시작하세요.",
+      "file": "c013.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 14,
+      "text": "감각을 느끼거나, 그 부재를 인식하세요.",
+      "file": "c014.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:27]",
+      "file": "c015.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 16,
+      "text": "이마. 눈. 뺨. 턱.",
+      "file": "c016.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 17,
+      "text": "얼굴을 조금 녹이세요.",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 19,
+      "text": "목. 목덜미. 어깨.",
+      "file": "c019.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 20,
+      "text": "어깨를 내리도록 초대하세요.",
+      "file": "c020.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:32]",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "팔. 팔꿈치. 손목. 손. 손가락.",
+      "file": "c022.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 23,
+      "text": "[일시정지:32]",
+      "file": "c023.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 24,
+      "text": "가슴이 오르내리는 것을 느껴보세요.",
+      "file": "c024.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 25,
+      "text": "가슴 공간이 부드러워지도록 해보세요.",
+      "file": "c025.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 26,
+      "text": "[일시정지:27]",
+      "file": "c026.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 27,
+      "text": "배. 허리. 엉덩이.",
+      "file": "c027.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 28,
+      "text": "[일시정지:32]",
+      "file": "c028.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 29,
+      "text": "허벅지. 무릎. 종아리. 발목. 발. 발가락.",
+      "file": "c029.ogg",
+      "durationSec": 13.944
+    },
+    {
+      "index": 30,
+      "text": "[일시정지:38]",
+      "file": "c030.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 31,
+      "text": "전체 몸을 하나의 영역으로 느껴보세요.",
+      "file": "c031.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 32,
+      "text": "호흡이 그 안을 통과하는 것을 느껴보세요.",
+      "file": "c032.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 33,
+      "text": "[일시정지:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 34,
+      "text": "여전히 긴장된 부분이 있다면, 숨을 내쉬며 그곳으로 보내세요.",
+      "file": "c034.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 35,
+      "text": "[일시정지:43]",
+      "file": "c035.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 36,
+      "text": "전체 몸에 대한 인식 속에 머물러 보세요.",
+      "file": "c036.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 37,
+      "text": "[일시정지:81]",
+      "file": "c037.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 38,
+      "text": "[일시정지:32]",
+      "file": "c038.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 39,
+      "text": "호흡을 깊게 시작해 보세요.",
+      "file": "c039.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 40,
+      "text": "다시 방을 느껴보세요.",
+      "file": "c040.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 41,
+      "text": "손가락과 발가락을 움직여 보세요.",
+      "file": "c041.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 42,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c042.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 43,
+      "text": "다음으로 천천히 이동하세요.",
+      "file": "c043.ogg",
+      "durationSec": 4.92
+    }
+  ]
+}

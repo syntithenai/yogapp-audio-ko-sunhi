@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 117,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "도착할 시간을 잠시 내세요.",
+      "file": "c001.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 2,
+      "text": "편안한 자세를 찾거나, 더 편하다면 누워보세요.",
+      "file": "c002.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 3,
+      "text": "손을 편안히 놓으세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 4,
+      "text": "눈을 감거나, 시선을 부드럽게 하세요.",
+      "file": "c004.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 5,
+      "text": "당신이 여기 있다는 것을 알아차리세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 6,
+      "text": "지금 당장 고칠 것이 없습니다.",
+      "file": "c006.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 7,
+      "text": "완성할 것이 없습니다.",
+      "file": "c007.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 8,
+      "text": "코로 천천히 숨을 들이마세요.",
+      "file": "c008.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 9,
+      "text": "그리고 더 길게 내쉽니다.",
+      "file": "c009.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 10,
+      "text": "다시 한 번. 부드럽게 들이마시세요.",
+      "file": "c010.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 11,
+      "text": "부드럽게 내쉽니다.",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "몸의 무게가 받쳐지는 것을 느껴보세요.",
+      "file": "c012.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 13,
+      "text": "바닥, 의자, 지구가 당신을 지지하고 있습니다.",
+      "file": "c013.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 14,
+      "text": "생각이 흐르면 괜찮습니다.",
+      "file": "c014.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 15,
+      "text": "단순히 알아차리고, 이 호흡으로 돌아가세요.",
+      "file": "c015.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 16,
+      "text": "들어마시세요. 도착하세요.",
+      "file": "c016.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 17,
+      "text": "내쉽니다. 안정하세요.",
+      "file": "c017.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 18,
+      "text": "한 번 더 쉬운 숨을 들이마시세요.",
+      "file": "c018.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 19,
+      "text": "준비되면 눈을 뜰 수 있습니다.",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "이 조용함을 함께 가져가세요.",
+      "file": "c020.ogg",
+      "durationSec": 5.112
+    }
+  ]
+}

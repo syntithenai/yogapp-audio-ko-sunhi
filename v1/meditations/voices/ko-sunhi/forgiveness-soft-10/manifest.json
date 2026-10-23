@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 211,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "도착할 시간을 가지세요.",
+      "file": "c001.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 2,
+      "text": "지지가 되는 자세로 앉거나 누우세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 3,
+      "text": "안전하다고 느껴진다면 눈을 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "지면과의 접촉을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "다시 한번.",
+      "file": "c008.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 10,
+      "text": "어깨를 내리세요.",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "배를 부드럽게 풀어주세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "이곳에서의 용서는 자신의 꽉 쥔 주먹을 놓는 것을 의미합니다.",
+      "file": "c013.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 14,
+      "text": "상처가 중요하지 않았다고 속이려는 것이 아닙니다.",
+      "file": "c014.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "작은 것부터 시작하세요. 자신에게 품고 있는 것에서요.",
+      "file": "c016.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 17,
+      "text": "실수. 부족함.",
+      "file": "c017.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 18,
+      "text": "[일시정지:34]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "조용히: 나는 인간이기 때문에 나 자신을 용서합니다.",
+      "file": "c019.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 20,
+      "text": "더 이상 나르지 않아도 되는 것을 놓아줍니다.",
+      "file": "c020.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:54]",
+      "file": "c021.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 22,
+      "text": "적절하다면, 다른 사람과의 경미한 갈등을 떠올려보세요.",
+      "file": "c022.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 23,
+      "text": "가장 어려운 이야기가 아니라, 가벼운 이야기를요.",
+      "file": "c023.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 24,
+      "text": "[일시정지:34]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "내가 할 수 있는 것을 놓아줍니다.",
+      "file": "c025.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 26,
+      "text": "나의 경계를 지킵니다. 불필요한 무게를 내려놓습니다.",
+      "file": "c026.ogg",
+      "durationSec": 9.576
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:54]",
+      "file": "c027.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 28,
+      "text": "주먹이 풀리는 곳으로 숨을 내쉽니다.",
+      "file": "c028.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 29,
+      "text": "[일시정지:68]",
+      "file": "c029.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 30,
+      "text": "주먹이 풀릴 때 열리는 공간에 머무릅니다.",
+      "file": "c030.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 31,
+      "text": "[일시정지:81]",
+      "file": "c031.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 32,
+      "text": "[일시정지:41]",
+      "file": "c032.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 33,
+      "text": "호흡을 깊게 시작합니다.",
+      "file": "c033.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 34,
+      "text": "다시 방의 느낌을 느껴보세요.",
+      "file": "c034.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 35,
+      "text": "손가락과 발가락을 움직여보세요.",
+      "file": "c035.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 36,
+      "text": "준비가 되면 눈을 뜹니다.",
+      "file": "c036.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 37,
+      "text": "천천히 다음 동작으로 넘어갑니다.",
+      "file": "c037.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 258,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "만약 갈망이 있다면, 당신은 올바른 곳에 있습니다.",
+      "file": "c001.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 2,
+      "text": "그것을 싸우거나 먹이를 주지 않아도 됩니다.",
+      "file": "c002.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 3,
+      "text": "안정된 자세를 취하거나, 양발을 땅에 대고 서세요.",
+      "file": "c003.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 4,
+      "text": "눈을 부드럽게 하거나, 부드러운 시선을 유지하세요.",
+      "file": "c004.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "그리고 더 길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 8,
+      "text": "무엇이 일어나고 있는지 간단히 이름 붙이세요.",
+      "file": "c008.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 9,
+      "text": "갈망이 존재합니다.",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "그것은 몸과 마음의 파도입니다.",
+      "file": "c010.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 11,
+      "text": "그것은 명령이 아닙니다.",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 13,
+      "text": "어디에서 느끼는지 알아보세요.",
+      "file": "c013.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 14,
+      "text": "가슴. 목. 손. 불안감.",
+      "file": "c014.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 15,
+      "text": "더 크게 만들 필요 없습니다. 그 위치를 찾기만 하면 됩니다.",
+      "file": "c015.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 16,
+      "text": "[일시정지:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 17,
+      "text": "그곳으로 숨을 내쉬세요.",
+      "file": "c017.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 18,
+      "text": "부드러운 공간을 들이마시세요.",
+      "file": "c018.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 19,
+      "text": "행동하지 않고 내쉬세요.",
+      "file": "c019.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 21,
+      "text": "욕구는 솟아오르고, 정점에 달하며, 가라앉습니다.",
+      "file": "c021.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 22,
+      "text": "당신은 해안입니다. 파도는 지나갑니다.",
+      "file": "c022.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 23,
+      "text": "[일시정지:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 24,
+      "text": "마음이 담배가 필요하다는 이야기를 제시하면, 감사하고 돌아가세요.",
+      "file": "c024.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 25,
+      "text": "호흡으로 돌아가세요.",
+      "file": "c025.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 26,
+      "text": "바닥에 발을 두고 돌아가세요.",
+      "file": "c026.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 28,
+      "text": "도움이 된다면 조용히.",
+      "file": "c028.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 29,
+      "text": "이것은 일시적인 것입니다.",
+      "file": "c029.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 30,
+      "text": "나는 담배를 피우지 않고 이 감정을 견딜 수 있다.",
+      "file": "c030.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 31,
+      "text": "[일시정지:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 32,
+      "text": "다시 한 번. 부드럽게 들이마시세요.",
+      "file": "c032.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 33,
+      "text": "길게 내쉬세요.",
+      "file": "c033.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 34,
+      "text": "[일시정지:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 35,
+      "text": "조금이라도 완화되는 것을 알아보세요.",
+      "file": "c035.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 36,
+      "text": "또는 자신과 함께 있었음을 알아차리세요.",
+      "file": "c036.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 37,
+      "text": "둘 다 중요합니다.",
+      "file": "c037.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 38,
+      "text": "[일시정지:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 39,
+      "text": "당신은 과거의 기억을 만나는 비흡연자입니다.",
+      "file": "c039.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 40,
+      "text": "욕구는 찾아올 수 있지만, 당신을 지배할 수는 없습니다.",
+      "file": "c040.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 41,
+      "text": "[일시정지:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 42,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c042.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 43,
+      "text": "손가락을 흔들어보세요.",
+      "file": "c043.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 44,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c044.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 45,
+      "text": "자유로운 하루를 계속하세요.",
+      "file": "c045.ogg",
+      "durationSec": 4.824
+    }
+  ]
+}

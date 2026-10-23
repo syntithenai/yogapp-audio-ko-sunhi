@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 162,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "긴장되거나 걱정이 되면, 여기에 오신 것을 환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 1,
+      "text": "지금 당장 평온할 필요는 없습니다.",
+      "file": "c001.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 2,
+      "text": "그냥 따라오세요.",
+      "file": "c002.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 3,
+      "text": "가능하다면 두 발을 바닥에 내려놓으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "접촉을 느껴보세요. 발 뒤꿈치. 발바닥. 발가락.",
+      "file": "c004.ogg",
+      "durationSec": 13.632
+    },
+    {
+      "index": 5,
+      "text": "부드럽게 누르세요. 땅에서 반응하는 느낌을 느껴보세요.",
+      "file": "c005.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 6,
+      "text": "보이는 것 다섯 가지를 말해보세요.",
+      "file": "c006.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 7,
+      "text": "조용히. 서두르지 말고.",
+      "file": "c007.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 8,
+      "text": "触れ는 것 네 가지를 말해보세요.",
+      "file": "c008.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 9,
+      "text": "옷. 의자. 피부에 닿는 공기.",
+      "file": "c009.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 10,
+      "text": "가까이 또는 멀리 있는 소리 세 가지를 말해보세요.",
+      "file": "c010.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 11,
+      "text": "향기 두 가지를 말하거나, 공기를 단순히 느껴보세요.",
+      "file": "c011.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 12,
+      "text": "맛 하나를 말하거나, 입안의 느낌을 느껴보세요.",
+      "file": "c012.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 13,
+      "text": "당신은 여기에 있습니다. 이 몸 안에. 이 방 안에.",
+      "file": "c013.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 14,
+      "text": "지금 숨을 4초 동안 들이마십니다.",
+      "file": "c014.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 15,
+      "text": "부드럽게 2초간 유지하세요.",
+      "file": "c015.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 16,
+      "text": "6초간 내쉬세요.",
+      "file": "c016.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 17,
+      "text": "원하시면 다시 해보세요.",
+      "file": "c017.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 18,
+      "text": "한 손을 가슴이나 배 위에 올려놓으세요.",
+      "file": "c018.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 19,
+      "text": "손 아래에서 움직임을 느껴보세요.",
+      "file": "c019.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 20,
+      "text": "불안이 여전히 있을 수 있습니다. 괜찮습니다.",
+      "file": "c020.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 21,
+      "text": "신경계에 부드러운 착륙을 제공했습니다.",
+      "file": "c021.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 22,
+      "text": "한 번 더 숨을 쉬세요.",
+      "file": "c022.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 23,
+      "text": "준비가 되면 눈을 뜨고 하루를 계속하세요.",
+      "file": "c023.ogg",
+      "durationSec": 6.936
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 156,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "만약 흩어지거나 흥분된 느낌이 든다면, 이 연습이 도움이 될 수 있습니다.",
+      "file": "c001.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 2,
+      "text": "더 안전하다고 느껴진다면, 지금은 눈을 뜬 채로 유지하세요.",
+      "file": "c002.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 3,
+      "text": "두 발을 바닥에 딛으세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 4,
+      "text": "[일시정지:17]",
+      "file": "c004.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 5,
+      "text": "보이는 다섯 가지를 말하세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "조용히. 시간을 충분히 가져요.",
+      "file": "c006.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:45]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "느끼거나 만질 수 있는 네 가지를 말하세요.",
+      "file": "c008.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 9,
+      "text": "옷. 의자. 피부에 닿는 공기. 바닥에 딛은 발.",
+      "file": "c009.ogg",
+      "durationSec": 10.896
+    },
+    {
+      "index": 10,
+      "text": "[일시정지:39]",
+      "file": "c010.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 11,
+      "text": "세 가지 소리를 말하세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 12,
+      "text": "가까운 소리든 멀리 있는 소리든, 부드럽든 선명하든.",
+      "file": "c012.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 13,
+      "text": "[일시정지:39]",
+      "file": "c013.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 14,
+      "text": "두 가지 냄새를 말하거나, 공기의 질을 느껴보세요.",
+      "file": "c014.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:28]",
+      "file": "c015.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 16,
+      "text": "한 가지 맛을 말하거나, 입안의 느낌을 느껴보세요.",
+      "file": "c016.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 17,
+      "text": "[일시정지:23]",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "당신은 여기에 있습니다. 이 몸 안에. 이 방 안에.",
+      "file": "c018.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 19,
+      "text": "4초 동안 숨을 들이마십니다.",
+      "file": "c019.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 20,
+      "text": "6초 동안 내쉽니다.",
+      "file": "c020.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 21,
+      "text": "[일시정지:23]",
+      "file": "c021.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 22,
+      "text": "한 번 더 편안한 숨을 쉬어보세요.",
+      "file": "c022.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 23,
+      "text": "손가락을 움직여보세요.",
+      "file": "c023.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 24,
+      "text": "준비가 되면, 눈을 떠주세요.",
+      "file": "c024.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 25,
+      "text": "이 감각을 조금이라도 함께 가져가세요.",
+      "file": "c025.ogg",
+      "durationSec": 6.024
+    }
+  ]
+}

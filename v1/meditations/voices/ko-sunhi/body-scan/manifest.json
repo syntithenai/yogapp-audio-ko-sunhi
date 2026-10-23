@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 165,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "우리는 몸을 부드럽게 스캔하겠습니다.",
+      "file": "c000.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 1,
+      "text": "누워서 또는 편안하게 앉아주세요.",
+      "file": "c001.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 2,
+      "text": "안전하다면 눈을 감아주세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 3,
+      "text": "머리의 정점에서 시작하세요.",
+      "file": "c003.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 4,
+      "text": "그곳에 어떤 느낌이 있는지 인식해보세요. 따뜻함, 차움, 아무것도 없음.",
+      "file": "c004.ogg",
+      "durationSec": 13.176
+    },
+    {
+      "index": 5,
+      "text": "변경할 필요 없습니다. 단지 인식하세요.",
+      "file": "c005.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 6,
+      "text": "부드럽게 이마와 눈 주위로 이동하세요.",
+      "file": "c006.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 7,
+      "text": "눈 주변의 작은 근육을 부드럽게 풀어주세요.",
+      "file": "c007.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 8,
+      "text": "입술을 느껴보세요. 가능하다면 긴장이 풀리도록 해주세요.",
+      "file": "c008.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 9,
+      "text": "혀가 가볍게 떠 있는 상태입니다.",
+      "file": "c009.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 10,
+      "text": "어깨. 올라간 것 같나요? 조금 내려놓으세요.",
+      "file": "c010.ogg",
+      "durationSec": 10.2
+    },
+    {
+      "index": 11,
+      "text": "팔은 무겁고, 손은 열린 채로 또는 부드럽게 놓아주세요.",
+      "file": "c011.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 12,
+      "text": "가슴이 숨과 함께 올라가고 내려갑니다.",
+      "file": "c012.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 13,
+      "text": "복부는 부드럽습니다. 강요하지 마세요.",
+      "file": "c013.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 14,
+      "text": "엉덩이와 골반은 편안하게 휴식 중입니다.",
+      "file": "c014.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 15,
+      "text": "허벅지, 무릎, 하체의 다리.",
+      "file": "c015.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 16,
+      "text": "발. 발바닥이 바닥이나 매트에 닿아 있습니다.",
+      "file": "c016.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 17,
+      "text": "지금 몸 전체를 하나의 인식 영역으로 느껴보세요.",
+      "file": "c017.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 18,
+      "text": "숨이 그 안을 흐르고 있습니다.",
+      "file": "c018.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 19,
+      "text": "긴장된 부분이 나타나면, 따뜻한 숨을 보내주세요.",
+      "file": "c019.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 20,
+      "text": "조용한 숨 세 번을 유지하세요.",
+      "file": "c020.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 21,
+      "text": "준비가 되면 손가락과 발가락을 움직여보세요.",
+      "file": "c021.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 22,
+      "text": "눈을 뜨세요. 부드럽게 돌아오세요.",
+      "file": "c022.ogg",
+      "durationSec": 7.248
+    }
+  ]
+}

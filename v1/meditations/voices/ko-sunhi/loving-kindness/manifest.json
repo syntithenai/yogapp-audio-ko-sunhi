@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 144,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "편안하게 앉으세요. 얼굴을 부드럽게 풀어주세요.",
+      "file": "c000.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 1,
+      "text": "도움이 된다면 손을 가슴에 얹으세요.",
+      "file": "c001.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 2,
+      "text": "우리는 간단한 친절의 구절을 나누겠습니다.",
+      "file": "c002.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 3,
+      "text": "먼저 자신에게.",
+      "file": "c003.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 4,
+      "text": "조용히 저를 따라 말하거나, 그냥 듣기만 하세요.",
+      "file": "c004.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 5,
+      "text": "내가 안전하기를.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "내가 건강하기를.",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "내가 편안하기를.",
+      "file": "c007.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 8,
+      "text": "다시 한 번 천천히 말해보세요.",
+      "file": "c008.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 9,
+      "text": "내가 안전하기를.",
+      "file": "c009.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 10,
+      "text": "내가 건강하기를.",
+      "file": "c010.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 11,
+      "text": "내가 편안하기를.",
+      "file": "c011.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 12,
+      "text": "힘들다면 괜찮습니다. 그저 소원 그 자체에 머물러주세요.",
+      "file": "c012.ogg",
+      "durationSec": 10.296
+    },
+    {
+      "index": 13,
+      "text": "이제 마음에 쉬운 사람을 떠올려보세요.",
+      "file": "c013.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 14,
+      "text": "친구, 애완동물, 친절한 낯선 사람.",
+      "file": "c014.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 15,
+      "text": "잠시 그 사람을 떠올려보세요.",
+      "file": "c015.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 16,
+      "text": "당신이 안전하기를.",
+      "file": "c016.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 17,
+      "text": "당신이 건강하기를.",
+      "file": "c017.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 18,
+      "text": "당신이 편안하기를.",
+      "file": "c018.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 19,
+      "text": "한 번 더.",
+      "file": "c019.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 20,
+      "text": "안전하기를 바랍니다.",
+      "file": "c020.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 21,
+      "text": "건강하기를 바랍니다.",
+      "file": "c021.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 22,
+      "text": "안심하기를 바랍니다.",
+      "file": "c022.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 23,
+      "text": "생기는 따뜻함을 느껴보세요. 아니면 단순히 말에 머무르세요.",
+      "file": "c023.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 24,
+      "text": "자신의 호흡으로 돌아가세요.",
+      "file": "c024.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 25,
+      "text": "연습해 주셔서 감사합니다.",
+      "file": "c025.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 26,
+      "text": "부드럽게 눈을 떠주세요.",
+      "file": "c026.ogg",
+      "durationSec": 4.632
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "id": "canyon-gold-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 709,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "당신에게 아무것도 요구하지 않는 자세를 찾으세요.",
+      "file": "c001.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 2,
+      "text": "필요한 만큼의 지지대를 이용해 앉거나 누우세요.",
+      "file": "c002.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 3,
+      "text": "손을 열거나 부드럽게 놓으세요.",
+      "file": "c003.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 4,
+      "text": "눈을 감거나 부드러운 시선을 유지하세요.",
+      "file": "c004.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 5,
+      "text": "몸이 땅에 닿는 부분을 느껴보세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 6,
+      "text": "발 뒤꿈치, 엉덩이 뼈, 머리 뒤쪽, 또는 척추의 길이.",
+      "file": "c006.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 7,
+      "text": "지금 당장 들고 있을 것이 없습니다.",
+      "file": "c007.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 8,
+      "text": "코로 천천히 숨을 들이마십니다.",
+      "file": "c008.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 9,
+      "text": "공기의 차가움을 느껴보세요.",
+      "file": "c009.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 10,
+      "text": "조금 더 길게 숨을 내쉽니다.",
+      "file": "c010.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 11,
+      "text": "숨을 내쉴 때의 따뜻함을 느껴보세요.",
+      "file": "c011.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 12,
+      "text": "다시 한 번. 부드럽게 들이마십니다.",
+      "file": "c012.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 13,
+      "text": "느긋하게 내쉽니다.",
+      "file": "c013.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 14,
+      "text": "어깨를 조금 내려보세요.",
+      "file": "c014.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 15,
+      "text": "턱을 풀어보세요.",
+      "file": "c015.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 16,
+      "text": "배를 부드럽게 유지하세요.",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "지금 이대로 조용한 숨 세 번을 유지하세요.",
+      "file": "c017.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 18,
+      "text": "들어마십니다. 도착합니다.",
+      "file": "c018.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 19,
+      "text": "내쉽니다. 안정됩니다.",
+      "file": "c019.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 20,
+      "text": "마음이 흐트러지면 친절하게 알아차리고, 이 숨으로 돌아오세요.",
+      "file": "c020.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 21,
+      "text": "부드러운 금색과 장미빛으로 칠해진 넓은 협곡을 상상해보세요.",
+      "file": "c021.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 22,
+      "text": "오후 늦은 시간입니다. 빛이 풍성합니다.",
+      "file": "c022.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 23,
+      "text": "하루 종일 태양을 품고 있던 돌에서 따뜻함이 퍼져 나옵니다.",
+      "file": "c023.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 24,
+      "text": "그 빛나는 열기를 다리와 손등에 느껴보세요.",
+      "file": "c024.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 25,
+      "text": "마른, 신선한 바람이 협곡 바닥을 따라 흐릅니다.",
+      "file": "c025.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 26,
+      "text": "그 바람이 얼굴을 식히지만, 따뜻함의 편안함을 빼앗지는 않습니다.",
+      "file": "c026.ogg",
+      "durationSec": 9.384
+    },
+    {
+      "index": 27,
+      "text": "조용한 벽 사이의 모래 길을 걷습니다.",
+      "file": "c027.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 28,
+      "text": "발자국 소리가 속삭입니다. 울림은 부드럽고 거의 예의 바르게 느껴집니다.",
+      "file": "c028.ogg",
+      "durationSec": 12.216
+    },
+    {
+      "index": 29,
+      "text": "태양에 구워진 땅, 세이지, 그리고 깨끗한 먼지 냄새를 맡으세요.",
+      "file": "c029.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 30,
+      "text": "손바닥을 매끄러운 돌에 대세요.",
+      "file": "c030.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 31,
+      "text": "거기에 저장된 일광을 느껴보세요 — 꾸준하고 인내심 있는 열기로.",
+      "file": "c031.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 32,
+      "text": "그늘의 리본이 잠시 동안 시원함을 제공합니다.",
+      "file": "c032.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 33,
+      "text": "그리고 다시 햇빛이 어깨를 감싸는 쇼awl처럼 따뜻하게 감깁니다.",
+      "file": "c033.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 34,
+      "text": "협곡이 열리는 곳에 도달합니다.",
+      "file": "c034.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 35,
+      "text": "금빛 따뜻함을 여전히 간직하고 있는 평평한 바위에 앉습니다.",
+      "file": "c035.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 36,
+      "text": "그 따뜻함이 엉덩이와 척추를 통해 올라가는 것을 느껴보세요.",
+      "file": "c036.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 37,
+      "text": "고도의 신선한 공기를 숨을 쉴 때마다 느껴보세요.",
+      "file": "c037.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 38,
+      "text": "멀리 위에서, 매가 느리게 서서히 원을 그리며 맴돕니다.",
+      "file": "c038.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 39,
+      "text": "당신은 그 느긋한 자질을 빌려옵니다.",
+      "file": "c039.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 40,
+      "text": "호흡을 길게 하세요. 몸은 무겁고, 마음은 벽 사이의 하늘처럼 넓습니다.",
+      "file": "c040.ogg",
+      "durationSec": 12.288
+    },
+    {
+      "index": 41,
+      "text": "태양이 지는 동안 그림자가 멀리 있는 절벽을 올라가는 것을 지켜보세요.",
+      "file": "c041.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 42,
+      "text": "색이 깊어집니다. 따뜻함은 부드러워지지만 사라지지 않습니다.",
+      "file": "c042.ogg",
+      "durationSec": 10.752
+    },
+    {
+      "index": 43,
+      "text": "바람 냄새가 이제 더 차갑고, 저녁의 신선함을 품고 있습니다.",
+      "file": "c043.ogg",
+      "durationSec": 9.384
+    },
+    {
+      "index": 44,
+      "text": "잠시 동안 팔을 꼭 끌어안으세요.",
+      "file": "c044.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 45,
+      "text": "자신의 몸의 따뜻함. 돌의 따뜻함. 충분합니다.",
+      "file": "c045.ogg",
+      "durationSec": 11.184
+    },
+    {
+      "index": 46,
+      "text": "조심스럽게 등을 내려 누워 첫 번째 조용한 별을 바라보세요.",
+      "file": "c046.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 47,
+      "text": "협곡은 손바닥이 물을 담는 것처럼 부드럽고 흘리지 않게 당신을 안아줍니다.",
+      "file": "c047.ogg",
+      "durationSec": 10.776
+    },
+    {
+      "index": 48,
+      "text": "그 안겨 있는 느낌에 머무르세요.",
+      "file": "c048.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 49,
+      "text": "바위에서 떠오르는 마지막 열기가 차가워지는 공기로 올라가는 것을 느껴보세요.",
+      "file": "c049.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 50,
+      "text": "지금 바람이 저녁과 먼지, 세이지의 냄새를 품고 있는 것을 느껴보세요.",
+      "file": "c050.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 51,
+      "text": "당신의 호흡이 넓은 고요함에 맞춰 느려졌음을 느껴보세요.",
+      "file": "c051.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 52,
+      "text": "이 금빛 빛 속에서 이마에 긴장이 남아 있다면, 그것을 부드럽게 풀어보세요.",
+      "file": "c052.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 53,
+      "text": "턱이 뻣뻣하다면, 매복하는 매의 부드러운 회전처럼 풀어내세요.",
+      "file": "c053.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 54,
+      "text": "따뜻한 돌과 신선한 공기의 몇 차례 더 순환을 함께하세요.",
+      "file": "c054.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 55,
+      "text": "당신은 늦지 않았습니다. 당신은 지금 여기에 있습니다.",
+      "file": "c055.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 56,
+      "text": "협곡 벽 사이의 따뜻한 모래 위를 몇 걸음 더 걸어보세요.",
+      "file": "c056.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 57,
+      "text": "당신의 그림자가 길고 걱정 없이 뻗어 있습니다.",
+      "file": "c057.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 58,
+      "text": "다시 두 손바닥을 돌 위에 올려놓으세요.",
+      "file": "c058.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 59,
+      "text": "열이 축복처럼 당신의 손에 들어옵니다. 그 축복은 얻을 필요가 없습니다.",
+      "file": "c059.ogg",
+      "durationSec": 11.664
+    },
+    {
+      "index": 60,
+      "text": "바람이 당신의 머리카락을 시원하게 빗어줍니다.",
+      "file": "c060.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 61,
+      "text": "세이지 냄새. 먼지 냄새. 태양 냄새.",
+      "file": "c061.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 62,
+      "text": "앉으세요. 무릎은 부드럽고, 척추는 편안하게.",
+      "file": "c062.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 63,
+      "text": "색이 금색에서 장미색으로 깊어지는 것을 바라보세요.",
+      "file": "c063.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 64,
+      "text": "따뜻함이 부드럽게 풀리고, 신선함이 증가하며, 균형은 유지됩니다.",
+      "file": "c064.ogg",
+      "durationSec": 10.152
+    },
+    {
+      "index": 65,
+      "text": "이것이 저녁이 신경계가 느슨해지도록 가르치는 방식입니다.",
+      "file": "c065.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 66,
+      "text": "노력 없이 그 교훈을 빌려보세요.",
+      "file": "c066.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 67,
+      "text": "돌을 위한 세 번의 숨.",
+      "file": "c067.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 68,
+      "text": "하늘을 위한 세 번의 숨.",
+      "file": "c068.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 69,
+      "text": "휴식 중인 당신 자신의 몸의 조용한 동물에게 세 번의 숨.",
+      "file": "c069.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 70,
+      "text": "이제 이야기를 내려놓고 감각에 머무르세요.",
+      "file": "c070.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 71,
+      "text": "이곳의 신선함을 들이마시세요.",
+      "file": "c071.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 72,
+      "text": "따뜻하고 조용한 이곳으로 숨을 내세요.",
+      "file": "c072.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 73,
+      "text": "들어 breath.",
+      "file": "c073.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 74,
+      "text": "내쉬세요.",
+      "file": "c074.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 75,
+      "text": "다시 해보세요. 부드럽게 들이마시기.",
+      "file": "c075.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 76,
+      "text": "더 긴 숨을 내세요.",
+      "file": "c076.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 77,
+      "text": "이 상상 속 세계의 바닥이 몸을 받쳐주는 것을 느껴보세요.",
+      "file": "c077.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 78,
+      "text": "들어 breath.",
+      "file": "c078.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 79,
+      "text": "내쉬세요.",
+      "file": "c079.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 80,
+      "text": "생각이 떠돌면, 피부에 느껴지는 따뜻함으로 돌아오세요.",
+      "file": "c080.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 81,
+      "text": "또는 코에 느껴지는 차가운 공기로요.",
+      "file": "c081.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 82,
+      "text": "들어 breath.",
+      "file": "c082.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 83,
+      "text": "내쉬세요.",
+      "file": "c083.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 84,
+      "text": "들어 breath.",
+      "file": "c084.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 85,
+      "text": "내쉬세요.",
+      "file": "c085.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 86,
+      "text": "머무르세요. 부드럽게 풀리고 계속하세요.",
+      "file": "c086.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 87,
+      "text": "들어 breath.",
+      "file": "c087.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 88,
+      "text": "내쉬세요.",
+      "file": "c088.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 89,
+      "text": "한 번 더 쉬운 호흡 사이클을 해보세요.",
+      "file": "c089.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 90,
+      "text": "들어 breath.",
+      "file": "c090.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 91,
+      "text": "내쉬세요.",
+      "file": "c091.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 92,
+      "text": "이 감정을 몇 번 더 숨 쉬며 느껴보세요.",
+      "file": "c092.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 93,
+      "text": "따뜻함. 부드러움. 충분함.",
+      "file": "c093.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 94,
+      "text": "필요할 때 언제든 이곳으로 돌아올 수 있습니다.",
+      "file": "c094.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 95,
+      "text": "이곳은 상상 속에만 있는 것이 아니라, 당신의 집중력 안에서 살아 숨 쉬고 있습니다.",
+      "file": "c095.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 96,
+      "text": "호흡을 깊게 하기 시작하세요.",
+      "file": "c096.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 97,
+      "text": "다시 주변의 방을 느껴보세요.",
+      "file": "c097.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 98,
+      "text": "손가락을 움직여보세요. 발가락을 풀어주세요.",
+      "file": "c098.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 99,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c099.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 100,
+      "text": "한 번 더 편안한 숨을 쉬어보세요.",
+      "file": "c100.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 101,
+      "text": "이 평온함을 앞으로 다가올 모든 일에 가져가세요.",
+      "file": "c101.ogg",
+      "durationSec": 7.008
+    }
+  ]
+}

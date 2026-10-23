@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 370,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "이 연습은 부드러운 긴장과 이완을 사용합니다.",
+      "file": "c001.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 2,
+      "text": "가능하면 누워주세요, 또는 지지가 되는 자세로 앉으세요.",
+      "file": "c002.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 3,
+      "text": "안전하다고 느껴지면 눈을 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 4,
+      "text": "강제할 필요 없습니다. 편안한 범위에서 머무르세요.",
+      "file": "c004.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마세요.",
+      "file": "c005.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 6,
+      "text": "그리고 더 길게 숨을 내쉬세요.",
+      "file": "c006.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:19]",
+      "file": "c007.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 8,
+      "text": "양쪽 발에 주의를 가져가세요.",
+      "file": "c008.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 9,
+      "text": "발가락을 말고 발을 조이세요.",
+      "file": "c009.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 10,
+      "text": "가지세요.",
+      "file": "c010.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 11,
+      "text": "[일시정지:19]",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "풀어내세요.",
+      "file": "c012.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 13,
+      "text": "차이를 느껴보세요.",
+      "file": "c013.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "종아리를 조이세요.",
+      "file": "c015.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 16,
+      "text": "가지세요.",
+      "file": "c016.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 17,
+      "text": "[일시정지:19]",
+      "file": "c017.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 18,
+      "text": "풀어내세요.",
+      "file": "c018.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 19,
+      "text": "아래 다리가 무거워지는 것을 느껴보세요.",
+      "file": "c019.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 20,
+      "text": "[일시정지:21]",
+      "file": "c020.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 21,
+      "text": "허벅지를 조입니다.",
+      "file": "c021.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 22,
+      "text": "그대로 유지하세요.",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "[일시정지:19]",
+      "file": "c023.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 24,
+      "text": "풀어냅니다.",
+      "file": "c024.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 25,
+      "text": "다리와 엉덩이를 부드럽게 풉니다.",
+      "file": "c025.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 26,
+      "text": "[일시정지:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 27,
+      "text": "부드럽게 복부를 안으로 당깁니다.",
+      "file": "c027.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 28,
+      "text": "무리 없이 유지하세요.",
+      "file": "c028.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 29,
+      "text": "[일시정지:19]",
+      "file": "c029.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 30,
+      "text": "풀어냅니다.",
+      "file": "c030.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 31,
+      "text": "호흡에 따라 복부를 자유롭게 움직이게 합니다.",
+      "file": "c031.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 32,
+      "text": "[일시정지:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 33,
+      "text": "부드러운 주먹을 만듭니다. 손과 팔뚝을 조입니다.",
+      "file": "c033.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 34,
+      "text": "그대로 유지하세요.",
+      "file": "c034.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 35,
+      "text": "[일시정지:19]",
+      "file": "c035.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 36,
+      "text": "풀어냅니다.",
+      "file": "c036.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 37,
+      "text": "손가락을 펴고 팔을 무겁게 느껴보세요.",
+      "file": "c037.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 38,
+      "text": "[일시정지:21]",
+      "file": "c038.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 39,
+      "text": "어깨를 귀 쪽으로 들어 올립니다.",
+      "file": "c039.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 40,
+      "text": "그대로 유지하세요.",
+      "file": "c040.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 41,
+      "text": "[일시정지:19]",
+      "file": "c041.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 42,
+      "text": "내려놓습니다.",
+      "file": "c042.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 43,
+      "text": "상부 등에 공간감을 느껴보세요.",
+      "file": "c043.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 44,
+      "text": "[일시정지:21]",
+      "file": "c044.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 45,
+      "text": "얼굴을 부드럽게 찌푸리세요. 눈, 눈썹, 턱.",
+      "file": "c045.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 46,
+      "text": "그대로 유지하세요.",
+      "file": "c046.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 47,
+      "text": "[일시정지:19]",
+      "file": "c047.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 48,
+      "text": "풀어내세요.",
+      "file": "c048.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 49,
+      "text": "이마는 평평하게. 턱은 부드럽게. 혀는 자연스럽게 놓으세요.",
+      "file": "c049.ogg",
+      "durationSec": 12.192
+    },
+    {
+      "index": 50,
+      "text": "[일시정지:23]",
+      "file": "c050.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 51,
+      "text": "전신을 가볍게 한꺼번에 긴장시켜보세요.",
+      "file": "c051.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 52,
+      "text": "숨을 한 번 들이마시며 유지하세요.",
+      "file": "c052.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 53,
+      "text": "[일시정지:35]",
+      "file": "c053.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 54,
+      "text": "모든 것을 내려놓으세요.",
+      "file": "c054.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 55,
+      "text": "[일시정지:8]",
+      "file": "c055.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 56,
+      "text": "한 번 더, 가벼운 전신 긴장을 해보세요.",
+      "file": "c056.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 57,
+      "text": "잠시 유지하세요.",
+      "file": "c057.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 58,
+      "text": "[일시정지:5]",
+      "file": "c058.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 59,
+      "text": "완전히 풀어내세요.",
+      "file": "c059.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 60,
+      "text": "이제 더 무겁고, 더 부드러워지세요.",
+      "file": "c060.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 61,
+      "text": "몸이 아래의 표면에 안정되며 내려앉는 느낌을 느껴보세요.",
+      "file": "c061.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 62,
+      "text": "[일시정지:39]",
+      "file": "c062.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 63,
+      "text": "여기서 휴식하세요.",
+      "file": "c063.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 64,
+      "text": "호흡은 조용하고, 몸은 부드럽게.",
+      "file": "c064.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 65,
+      "text": "생각이 다시 돌아오더라도 괜찮습니다.",
+      "file": "c065.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 66,
+      "text": "다시 이완의 느낌으로 돌아가세요.",
+      "file": "c066.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 67,
+      "text": "[일시정지:50]",
+      "file": "c067.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 68,
+      "text": "부드럽게 유지하세요.",
+      "file": "c068.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 69,
+      "text": "[일시정지:40]",
+      "file": "c069.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 70,
+      "text": "손가락과 발가락을 흔들어 보세요.",
+      "file": "c070.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 71,
+      "text": "한 번 더 편안한 숨을 들이마셔 보세요.",
+      "file": "c071.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 72,
+      "text": "준비가 되면 눈을 떠 주세요.",
+      "file": "c072.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 73,
+      "text": "이 부드러움을 계속 가지고 가세요.",
+      "file": "c073.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}

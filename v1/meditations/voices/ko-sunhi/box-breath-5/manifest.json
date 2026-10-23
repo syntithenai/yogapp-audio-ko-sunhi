@@ -1,0 +1,238 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 196,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "편안한 자세를 찾거나, 더 편하다면 누워주세요.",
+      "file": "c001.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 2,
+      "text": "손을 편안히 놓아주세요.",
+      "file": "c002.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 3,
+      "text": "눈을 부드럽게 하거나, 감아주세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 4,
+      "text": "천천히 숨을 들이마시세요.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "그리고 더 길게 숨을 내쉬세요.",
+      "file": "c005.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 6,
+      "text": "간단한 상자 형태로 숨을 쉬겠습니다.",
+      "file": "c006.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 7,
+      "text": "4초 동안 들이마시고, 4초 동안 유지하고, 4초 동안 내쉬고, 4초 동안 유지합니다.",
+      "file": "c007.ogg",
+      "durationSec": 13.008
+    },
+    {
+      "index": 8,
+      "text": "부드럽게 유지하세요. 절대 힘을 주지 마세요.",
+      "file": "c008.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:20]",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "들어. 둘. 셋. 넷.",
+      "file": "c010.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 11,
+      "text": "유지. 둘. 셋. 넷.",
+      "file": "c011.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 12,
+      "text": "내쉬. 둘. 셋. 넷.",
+      "file": "c012.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 13,
+      "text": "유지. 둘. 셋. 넷.",
+      "file": "c013.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 14,
+      "text": "[일시정지:20]",
+      "file": "c014.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 15,
+      "text": "다시 한번. 들이마시세요.",
+      "file": "c015.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 16,
+      "text": "가지세요.",
+      "file": "c016.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 17,
+      "text": "내쉬세요.",
+      "file": "c017.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 18,
+      "text": "가지세요.",
+      "file": "c018.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 19,
+      "text": "[일시정지:26]",
+      "file": "c019.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 20,
+      "text": "자신의 속도로 몇 라운드를 계속하세요.",
+      "file": "c020.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 21,
+      "text": "네가 너무 길다면, 세로 사용하세요.",
+      "file": "c021.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:45]",
+      "file": "c022.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 23,
+      "text": "한 번 더 완전한 박스.",
+      "file": "c023.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 24,
+      "text": "들이마시세요.",
+      "file": "c024.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 25,
+      "text": "가지세요.",
+      "file": "c025.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 26,
+      "text": "내쉬세요.",
+      "file": "c026.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 27,
+      "text": "가지세요.",
+      "file": "c027.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 28,
+      "text": "[일시정지:26]",
+      "file": "c028.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 29,
+      "text": "자연스러운 호흡으로 돌아가세요.",
+      "file": "c029.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 30,
+      "text": "그 뒤에 오는 조용함을 느껴보세요.",
+      "file": "c030.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 31,
+      "text": "[일시정지:33]",
+      "file": "c031.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 32,
+      "text": "여기서 쉬세요.",
+      "file": "c032.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 33,
+      "text": "[일시정지:33]",
+      "file": "c033.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 34,
+      "text": "한 번 더 편안한 숨을 쉬세요.",
+      "file": "c034.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 35,
+      "text": "손가락을 움직여보세요.",
+      "file": "c035.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 36,
+      "text": "준비가 되면 눈을 떠주세요.",
+      "file": "c036.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 37,
+      "text": "이것을 조금이라도 가지고 다니세요.",
+      "file": "c037.ogg",
+      "durationSec": 5.712
+    }
+  ]
+}

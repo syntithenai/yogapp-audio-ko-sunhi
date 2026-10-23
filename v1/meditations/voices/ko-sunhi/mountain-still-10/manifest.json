@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "ko-sunhi",
+  "edgeVoice": "ko-KR-SunHiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 184,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "환영합니다.",
+      "file": "c000.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 1,
+      "text": "도착할 시간을 가지세요.",
+      "file": "c001.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 2,
+      "text": "지지가 되는 자세로 앉거나 누우세요.",
+      "file": "c002.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 3,
+      "text": "안전하다고 느껴진다면 눈을 감으세요.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "지면과의 접촉을 느껴보세요.",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "천천히 숨을 들이마십니다.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "길게 숨을 내쉽니다.",
+      "file": "c006.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 7,
+      "text": "[일시정지:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 8,
+      "text": "다시 한번.",
+      "file": "c008.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 9,
+      "text": "[일시정지:28]",
+      "file": "c009.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 10,
+      "text": "어깨를 내리세요.",
+      "file": "c010.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 11,
+      "text": "배를 부드럽게 풀어주세요.",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[일시정지:36]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "자신을 산으로 상상해보세요.",
+      "file": "c013.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 14,
+      "text": "기초는 넓고, 정상은 조용하며, 광대한 인내를 갖는다.",
+      "file": "c014.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 15,
+      "text": "[일시정지:43]",
+      "file": "c015.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 16,
+      "text": "날씨가 산을 지나간다.",
+      "file": "c016.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 17,
+      "text": "태양. 바람. 구름. 폭풍.",
+      "file": "c017.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 18,
+      "text": "산은 그대로 남는다.",
+      "file": "c018.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 19,
+      "text": "[일시정지:57]",
+      "file": "c019.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 20,
+      "text": "생각과 감정은 날씨와 같다.",
+      "file": "c020.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 21,
+      "text": "당신은 산이다.",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "[일시정지:57]",
+      "file": "c022.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 23,
+      "text": "몸의 기초가 뿌리내린 것을 느껴보세요.",
+      "file": "c023.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 24,
+      "text": "척추에 긴장 없이 높이를 느껴보세요.",
+      "file": "c024.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 25,
+      "text": "[일시정지:43]",
+      "file": "c025.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 26,
+      "text": "산 주변의 하늘처럼 숨을 쉬세요.",
+      "file": "c026.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 27,
+      "text": "[일시정지:71]",
+      "file": "c027.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 28,
+      "text": "안정적이고, 서두르지 않으며, 충분하다.",
+      "file": "c028.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 29,
+      "text": "[일시정지:90]",
+      "file": "c029.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 30,
+      "text": "[일시정지:43]",
+      "file": "c030.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 31,
+      "text": "숨을 깊게 들이마시기 시작하세요.",
+      "file": "c031.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 32,
+      "text": "다시 방을 느껴보세요.",
+      "file": "c032.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 33,
+      "text": "손가락과 발가락을 움직여보세요.",
+      "file": "c033.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 34,
+      "text": "준비가 되면 눈을 뜨세요.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "천천히 다음으로 넘어가세요.",
+      "file": "c035.ogg",
+      "durationSec": 4.872
+    }
+  ]
+}
